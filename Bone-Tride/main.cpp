@@ -10,8 +10,8 @@
 
 using namespace std;
 
-const int WIN_WIDTH	    = 960;
-const int WIN_HEIGHT    = 540;
+const int WIN_WIDTH	    = 1000;
+const int WIN_HEIGHT	= 700;
 
 const string gameName		= "Bone Tride";
 const string gameVer        = "v0.0.6";
