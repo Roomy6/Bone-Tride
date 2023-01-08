@@ -28,5 +28,4 @@ A simple topdown shooter game in C++ SFML.
     
 ## Authors
 
-- [@Roomy6](https://www.github.com/roomy6)
-
+- [@Roomy6](https://www.github.com/roomy6) - Discord: Roomy#0065
